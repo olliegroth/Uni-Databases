@@ -16,8 +16,6 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li><a href="#bugs-issues-and-requests">Bugs, Issues And Requests</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact-me">Contact Me</a></li>
   </ol>
 </details>
@@ -31,4 +29,4 @@ A collection of SQL Database examples and practise compiled throughout Universit
 
 ## Contact Me 
 
-If you wish to contact me, please email me via olliegroth2004@gmail.com
+If you wish to contact me, please email via olliegroth2004@gmail.com
